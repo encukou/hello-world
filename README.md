@@ -8,3 +8,4 @@ Books to read:
  * Soul Music by Terry Pratchett
  * Dune by Frank Herbert
  * Kalevala by Elias Lönnrot
+ * Sapiens: A Brief History of Humankind by Yuval Noah Harari
